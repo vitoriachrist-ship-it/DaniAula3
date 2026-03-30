@@ -1,3 +1,3 @@
 # DaniAula3
-Exercicio1
-Exercicio2
+Exercicio 1 a 6
+
